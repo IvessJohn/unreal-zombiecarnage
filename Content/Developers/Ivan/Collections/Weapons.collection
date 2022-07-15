@@ -3,3 +3,5 @@ Type:Static
 Guid:CA12A11B-4A2B-6F5B-0B74-239BE7DD693C
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/_Main/Blueprints/Weapons/BP_AssaultRifle.BP_AssaultRifle
+/Game/_Main/Blueprints/Weapons/BP_Pistol.BP_Pistol
