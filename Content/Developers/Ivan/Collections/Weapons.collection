@@ -5,3 +5,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 
 /Game/_Main/Blueprints/Weapons/BP_AssaultRifle.BP_AssaultRifle
 /Game/_Main/Blueprints/Weapons/BP_Pistol.BP_Pistol
+/Game/_Main/Blueprints/Weapons/BP_WeaponParent.BP_WeaponParent
