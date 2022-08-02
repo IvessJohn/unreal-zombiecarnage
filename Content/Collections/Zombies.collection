@@ -8,7 +8,4 @@ ParentGuid:00000000-0000-0000-0000-000000000000
 /Game/_Main/Blueprints/Enemies/BP_Enemy_Quickie.BP_Enemy_Quickie
 /Game/_Main/Blueprints/Enemies/BP_ZombieProjectile.BP_ZombieProjectile
 /Game/_Main/Blueprints/Enemies/BP_ZombieSpawner.BP_ZombieSpawner
-/Game/_Main/ZombieResources/MI_Zombie_Heavy.MI_Zombie_Heavy
-/Game/_Main/ZombieResources/MI_Zombie_Quickie.MI_Zombie_Quickie
-/Game/_Main/ZombieResources/MI_Zombie_Regular.MI_Zombie_Regular
 /Game/_Main/ZombieResources/zombiegirl.zombiegirl
