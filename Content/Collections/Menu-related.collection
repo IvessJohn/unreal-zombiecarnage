@@ -3,8 +3,8 @@ Type:Static
 Guid:7EBE7971-42BF-A9FC-07AF-048D9020B3F0
 ParentGuid:00000000-0000-0000-0000-000000000000
 
-/Game/_Main/Blueprints/BP_MainMenuController.BP_MainMenuController
-/Game/_Main/Blueprints/BP_MainMenuGameMode.BP_MainMenuGameMode
+/Game/_Main/Blueprints/Menu-related/BP_MainMenuController.BP_MainMenuController
+/Game/_Main/Blueprints/Menu-related/BP_MainMenuGameMode.BP_MainMenuGameMode
 /Game/_Main/Blueprints/UI/W_MainMenu.W_MainMenu
 /Game/_Main/Maps/Menu/BP_MainMenuZombie.BP_MainMenuZombie
 /Game/_Main/Maps/Menu/MainMenu.MainMenu
