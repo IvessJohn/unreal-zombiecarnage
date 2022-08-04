@@ -3,6 +3,6 @@ Type:Static
 Guid:AF4A5964-444B-CDEA-3EC8-DD8DAFF77D60
 ParentGuid:00000000-0000-0000-0000-000000000000
 
-/Game/_Main/Blueprints/BP_FPPlayer.BP_FPPlayer
-/Game/_Main/Blueprints/BP_FPSPlayerState.BP_FPSPlayerState
-/Game/_Main/Blueprints/BP_PlayerController.BP_PlayerController
+/Game/_Main/Blueprints/Player/BP_FPPlayer.BP_FPPlayer
+/Game/_Main/Blueprints/Player/BP_FPSPlayerState.BP_FPSPlayerState
+/Game/_Main/Blueprints/Player/BP_PlayerController.BP_PlayerController
