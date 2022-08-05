@@ -1,0 +1,115 @@
+Begin Object Class=/Script/Engine.SoundCue Name="ZombieAttackCue"
+   Begin Object Class=/Script/AudioEditor.SoundCueGraph Name="SoundCueGraph_0"
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_0"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_1"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_2"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_3"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode Name="SoundCueGraphNode_4"
+      End Object
+      Begin Object Class=/Script/AudioEditor.SoundCueGraphNode_Root Name="SoundCueGraphNode_Root_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeRandom Name="SoundNodeRandom_0"
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_0"
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_1"
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_2"
+   End Object
+   Begin Object Class=/Script/Engine.SoundNodeWavePlayer Name="SoundNodeWavePlayer_3"
+   End Object
+   Begin Object Name="SoundCueGraph_0"
+      Begin Object Name="SoundCueGraphNode_0"
+         SoundNode=SoundNodeRandom'"ZombieAttackCue:SoundNodeRandom_0"'
+         NodePosX=-200
+         NodeGuid=8AD606494E5AFAEAAB688AAA824447A7
+         CustomProperties Pin (PinId=0FD6786E4848E03FDF4CC9B7B6481F13,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_Root_0 0A7872564FEF5A4A0C69A3A77370C2E2,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=CF24ECCB43D49264B2B336932232FE28,PinName="Input",PinFriendlyName=NSLOCTEXT("", "8976530340FB50FCD82F4CBCD3801C8C", " "),PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_1 25DCCD9F4651869B41D2F49265018DF4,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=4E7BEF4B4DF8CD48D3AB668198E6D056,PinName="Input2",PinFriendlyName=NSLOCTEXT("", "DDCD09F34FDA6D8DBDF632A95930AE68", " "),PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_2 E750CF824EDEF1D0FF152BA40CDD43B6,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=8DBE28464C7DCA7ADF6A4D973F495BE4,PinName="Input3",PinFriendlyName=NSLOCTEXT("", "3D1B3E4544BE7A2ADC33CDBAA8187F79", " "),PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_3 4D5B708C41F0BD7D680F07963AEDA24C,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+         CustomProperties Pin (PinId=653586FA4A2CD0C791814AA028C4248E,PinName="Input4",PinFriendlyName=NSLOCTEXT("", "D028180B412FB0B8178A8EAE238E89C1", " "),PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_4 4BE3BE7642EA02C4E859B49622046794,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_1"
+         SoundNode=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_0"'
+         NodePosX=-624
+         NodeGuid=D7D5262B487B01E1B107508BF2334659
+         CustomProperties Pin (PinId=25DCCD9F4651869B41D2F49265018DF4,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 CF24ECCB43D49264B2B336932232FE28,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_2"
+         SoundNode=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_1"'
+         NodePosX=-624
+         NodePosY=100
+         NodeGuid=45CAAA0F4BFC613E59C140B965F38931
+         CustomProperties Pin (PinId=E750CF824EDEF1D0FF152BA40CDD43B6,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 4E7BEF4B4DF8CD48D3AB668198E6D056,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_3"
+         SoundNode=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_2"'
+         NodePosX=-624
+         NodePosY=200
+         NodeGuid=D6FA013B4FB66773A7FD99BFC5171C47
+         CustomProperties Pin (PinId=4D5B708C41F0BD7D680F07963AEDA24C,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 8DBE28464C7DCA7ADF6A4D973F495BE4,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_4"
+         SoundNode=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_3"'
+         NodePosX=-624
+         NodePosY=300
+         NodeGuid=A8EBF1FE4691D2D131A2A0932906898F
+         CustomProperties Pin (PinId=4BE3BE7642EA02C4E859B49622046794,PinName="Output",Direction="EGPD_Output",PinType.PinCategory="SoundNode",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 653586FA4A2CD0C791814AA028C4248E,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Begin Object Name="SoundCueGraphNode_Root_0"
+         NodePosY=-58
+         NodeGuid=DBB9652F456FBD2A729ED4A550357918
+         CustomProperties Pin (PinId=0A7872564FEF5A4A0C69A3A77370C2E2,PinType.PinCategory="SoundNode",PinType.PinSubCategory="Root",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=False,PinType.bSerializeAsSinglePrecisionFloat=False,LinkedTo=(SoundCueGraphNode_0 0FD6786E4848E03FDF4CC9B7B6481F13,),PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=Class'"/Script/AudioEditor.SoundCueGraphSchema"'
+      Nodes(0)=SoundCueGraphNode_Root'"SoundCueGraphNode_Root_0"'
+      Nodes(1)=SoundCueGraphNode'"SoundCueGraphNode_0"'
+      Nodes(2)=SoundCueGraphNode'"SoundCueGraphNode_1"'
+      Nodes(3)=SoundCueGraphNode'"SoundCueGraphNode_2"'
+      Nodes(4)=SoundCueGraphNode'"SoundCueGraphNode_3"'
+      Nodes(5)=SoundCueGraphNode'"SoundCueGraphNode_4"'
+      bAllowDeletion=False
+      GraphGuid=42FF7A394E30CA1EBC0438B02DED1742
+   End Object
+   Begin Object Name="SoundNodeRandom_0"
+      Weights(0)=1.000000
+      Weights(1)=1.000000
+      Weights(2)=1.000000
+      Weights(3)=1.000000
+      ChildNodes(0)=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_0"'
+      ChildNodes(1)=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_1"'
+      ChildNodes(2)=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_2"'
+      ChildNodes(3)=SoundNodeWavePlayer'"ZombieAttackCue:SoundNodeWavePlayer_3"'
+      GraphNode=SoundCueGraphNode'"ZombieAttackCue:SoundCueGraph_0.SoundCueGraphNode_0"'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_0"
+      SoundWaveAssetPtr="/Game/_Main/SFX/attack1.attack1"
+      GraphNode=SoundCueGraphNode'"ZombieAttackCue:SoundCueGraph_0.SoundCueGraphNode_1"'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_1"
+      SoundWaveAssetPtr="/Game/_Main/SFX/attack2.attack2"
+      GraphNode=SoundCueGraphNode'"ZombieAttackCue:SoundCueGraph_0.SoundCueGraphNode_2"'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_2"
+      SoundWaveAssetPtr="/Game/_Main/SFX/attack3.attack3"
+      GraphNode=SoundCueGraphNode'"ZombieAttackCue:SoundCueGraph_0.SoundCueGraphNode_3"'
+   End Object
+   Begin Object Name="SoundNodeWavePlayer_3"
+      SoundWaveAssetPtr="/Game/_Main/SFX/attack4.attack4"
+      GraphNode=SoundCueGraphNode'"ZombieAttackCue:SoundCueGraph_0.SoundCueGraphNode_4"'
+   End Object
+   FirstNode=SoundNodeRandom'"SoundNodeRandom_0"'
+   AllNodes(0)=SoundNodeRandom'"SoundNodeRandom_0"'
+   AllNodes(1)=SoundNodeWavePlayer'"SoundNodeWavePlayer_0"'
+   AllNodes(2)=SoundNodeWavePlayer'"SoundNodeWavePlayer_1"'
+   AllNodes(3)=SoundNodeWavePlayer'"SoundNodeWavePlayer_2"'
+   AllNodes(4)=SoundNodeWavePlayer'"SoundNodeWavePlayer_3"'
+   SoundCueGraph=SoundCueGraph'"SoundCueGraph_0"'
+   Duration=1.681229
+   MaxDistance=2097152.000000
+End Object
