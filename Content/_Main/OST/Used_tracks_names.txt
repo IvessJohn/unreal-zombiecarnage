@@ -1,0 +1,10 @@
+ost_action_1 - No Way Back_looped (Remastered)
+ost_action_2 - Energetic Driving Rock Theme #1 (looped)
+ost_action_3 - Energetic Driving Rock Theme #3 (looped)
+ost_action_4 - Unbreakable_looped (Remastered)
+ost_action_5 - Rock Theme #2 (Looped)
+
+ost_intermission_1 - Dramatic Background Theme #1 (Looped)
+ost_intermission_2 - Dramatic Background Theme #3 (Looped)
+
+ost_menu_1 - Combat Theme #1
