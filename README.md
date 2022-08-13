@@ -1,7 +1,7 @@
 # Zombie Carnage
 
 Developed with Unreal Engine 5
-### Zombie Carnage is a casual action FPS where you fight off the approaching waves of zombies with your firearms!
+### Zombie Carnage is a casual action FPS where you fight off the incoming waves of zombies with your firearms!
 ##### Developed by [Ivan "John Ivess" Shyika](https://www.linkedin.com/in/ivanshyika/) with Unreal Engine 5 in a month.
 
 [Play Zombie Carnage on itch.io](https://ivess.itch.io/zombie-carnage)
