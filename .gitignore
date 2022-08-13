@@ -14,3 +14,5 @@ Saved
 *.xcworkspace
 Build/Linux/FileOpenOrder/EditorOpenOrder.log
 Build/Linux/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/CookerOpenOrder.log
+Build/Windows/FileOpenOrder/EditorOpenOrder.log
