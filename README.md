@@ -6,9 +6,9 @@ Developed with Unreal Engine 5
 
 [Play Zombie Carnage on itch.io](https://ivess.itch.io/zombie-carnage)
 
-<!--- ![Zombie Carnage cover image]() -->
+Game trailer:
 
-<!--- ![Gameplay GIF]() -->
+[![Zombie Carnage Trailer](https://i9.ytimg.com/vi_webp/gIAc6IVlmCc/mqdefault.webp?v=62f9023a&sqp=CPCb5JcG&rs=AOn4CLBS_Ni_RK16EYC3ZJAOG1MxzJh5hg)](https://youtu.be/gIAc6IVlmCc)
 
 ---
 
