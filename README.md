@@ -7,7 +7,7 @@
 
 Game trailer:
 
-[![Zombie Carnage Trailer](https://i9.ytimg.com/vi_webp/gIAc6IVlmCc/mqdefault.webp?v=62f9023a&sqp=CPCb5JcG&rs=AOn4CLBS_Ni_RK16EYC3ZJAOG1MxzJh5hg)](https://youtu.be/gIAc6IVlmCc)
+[![Zombie Carnage Trailer](https://i.ytimg.com/vi/gIAc6IVlmCc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8k0wi_1rNHGdvpaIBtxRUyEHLEg)](https://youtu.be/gIAc6IVlmCc)
 
 ---
 
